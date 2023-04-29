@@ -1,0 +1,22 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "this is a first node js project ",
+  "main": "yes",
+  "scripts": {
+    "test": "test commit "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abed-alazeez-yasser/JS.git"
+  },
+  "keywords": [
+    "d"
+  ],
+  "author": "abed alazeez yasser",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/abed-alazeez-yasser/JS/issues"
+  },
+  "homepage": "https://github.com/abed-alazeez-yasser/JS#readme"
+}
